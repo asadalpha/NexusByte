@@ -24,7 +24,7 @@ body {
     z-index: 105;
     background-color: #EDBFFF;
     display: none;
-  
+
     transition: opacity ease-in 1s;
 
 }
